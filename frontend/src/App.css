@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.messageStyle {
+  color: red;
+  background: black;
+  border-radius: 10px;
+  text-align: center;
+  margin: 100px auto;
+  font-size: 20px;
+  padding: 10px 100px;
+  
+}
